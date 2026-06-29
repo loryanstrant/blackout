@@ -3,6 +3,7 @@
 [![HACS](https://img.shields.io/badge/HACS-Custom-41BDF5?style=flat-square)](https://github.com/hacs/integration)
 [![Release](https://img.shields.io/github/v/release/loryanstrant/blackout?style=flat-square)](https://github.com/loryanstrant/blackout/releases)
 [![Release date](https://img.shields.io/github/release-date/loryanstrant/blackout?style=flat-square)](https://github.com/loryanstrant/blackout/releases)
+[![License](https://img.shields.io/github/license/loryanstrant/blackout?style=flat-square)](LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/loryanstrant/blackout?style=flat-square)](https://github.com/loryanstrant/blackout/commits)
 [![Stars](https://img.shields.io/github/stars/loryanstrant/blackout?style=flat-square)](https://github.com/loryanstrant/blackout/stargazers)
 
